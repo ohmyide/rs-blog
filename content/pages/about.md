@@ -5,17 +5,11 @@ template = "pages.html"
 draft = false
 +++
 
-This site provides a demo for the [abridge theme](https://github.com/Jieiku/abridge) for [Zola](https://www.getzola.org/) the static site generator.
+据不可靠史料记载，他：
+- 6 岁想当科学家
+- 15 岁想当小说家
+- 20 岁想当导演
 
-Abridge was created by [Jake G (jieiku)](https://github.com/Jieiku) to be fast and lightweight, using semantic html, a class-light [abridge.css](https://github.com/Jieiku/abridge.css), and No Mandatory JS.
+造化弄人，他 23 岁成为一名程序员，在一家外卖公司工作至今。
 
-Some fun facts about the theme:
-
-* Perfect score on Google's Lighthouse audit
-* Only ~6 KB of CSS before enabling the SVG CSS icons and syntax highlighting.
-* No mandatory JavaScript.
-* Now with SEO!
-
-Nearly half of the existing Zola MIT themes were inspiration for features and design of this theme.
-
-Both the theme and this site are licensed under the [MIT license](https://opensource.org/licenses/MIT).
+他的微信是：slip-box 添加之前最好准备一下你的故事。

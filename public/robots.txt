@@ -1,0 +1,4 @@
+Sitemap: https://ohmyide.com/sitemap.xml
+User-Agent: *
+Allow: /
+Host: https://ohmyide.com

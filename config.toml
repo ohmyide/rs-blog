@@ -55,7 +55,7 @@ meta_post = { position="top", size="s95", author=true, readtime=false, readstrin
 
 footer_size = "s90" # size: s95, s90, s85, s80, s75, s70, false(full size)
 footer_credit = true
-#footer_credit_override = '<p class="s90">Powered by <a href="https://www.getzola.org/" target="_blank">Zola</a> &#38; <a href="https://github.com/Jieiku/abridge/" target="_blank">Abridge</a></p>'
+footer_credit_override = '<a style="color:#999;font-size:10px" href="https://beian.miit.gov.cn/" target="_blank">京ICP备17001765号-2</a>'
 
 #uncomment one of the two lines, or neither, depending on which type of logo you want to use:
 #logo = { file="logo.svg", width="32", height="32", alt="Abridge", text="bridge" }
@@ -75,10 +75,10 @@ menu = [
     {url = "/tags/", name = "Tags", slash = true, blank = false},
 ]
 menu_footer = [
-    {url = "/about/", name = "About", slash = true, blank = false},
-    {url = "/contact/", name = "Contact", slash = true, blank = false},
-    {url = "/privacy/", name = "Privacy", slash = true, blank = false},
-    {url = "/sitemap.xml", name = "Sitemap", slash = false, blank = true},
+#    {url = "/about/", name = "About", slash = true, blank = false},
+#    {url = "/contact/", name = "Contact", slash = true, blank = false},
+#    {url = "/privacy/", name = "Privacy", slash = true, blank = false},
+#    {url = "/sitemap.xml", name = "Sitemap", slash = false, blank = true},
 ]
 
 # Security Headers should preferably be set by your webserver (Nginx, Apache) https://observatory.mozilla.org  https://csp-evaluator.withgoogle.com/

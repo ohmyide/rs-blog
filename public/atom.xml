@@ -2,11 +2,11 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
     <title>ohmyide</title>
     <subtitle>ohmyide blog</subtitle>
-    <link href="https://ohmyide.com/atom.xml" rel="self" type="application/atom+xml"/>
-    <link href="https://ohmyide.com"/>
+    <link href="http://140.143.158.180/atom.xml" rel="self" type="application/atom+xml"/>
+    <link href="http://140.143.158.180/"/>
     <generator uri="https://www.getzola.org/">Zola</generator>
     <updated>2023-03-19T00:00:00+00:00</updated>
-    <id>https://ohmyide.com/atom.xml</id>
+    <id>http://140.143.158.180/atom.xml</id>
     <entry xml:lang="en">
         <title>复古 iMac 折腾手记</title>
         <published>2023-03-19T00:00:00+00:00</published>
@@ -14,8 +14,8 @@
         <author>
           <name>Unknown</name>
         </author>
-        <link rel="alternate" href="https://ohmyide.com/fu-gu-imac-zhe-teng-shou-ji/" type="text/html"/>
-        <id>https://ohmyide.com/fu-gu-imac-zhe-teng-shou-ji/</id>
+        <link rel="alternate" href="http://140.143.158.180/fu-gu-imac-zhe-teng-shou-ji/" type="text/html"/>
+        <id>http://140.143.158.180/fu-gu-imac-zhe-teng-shou-ji/</id>
         <content type="html">&lt;p&gt;2016 年，没能忍住 iMac 优雅机身的诱惑，摆脱纠结入手一台，其配置如下：&lt;&#x2F;p&gt;
 &lt;ul&gt;
 &lt;li&gt;iMac (Retina 4K, 21.5-inch, Late 2015)&lt;&#x2F;li&gt;

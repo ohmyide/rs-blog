@@ -1,4 +1,4 @@
-Sitemap: https://ohmyide.com/sitemap.xml
+Sitemap: http://140.143.158.180/sitemap.xml
 User-Agent: *
 Allow: /
-Host: https://ohmyide.com
+Host: http://140.143.158.180
